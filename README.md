@@ -1,5 +1,5 @@
 # Smart Contract Security Analysis
-(Freelance Project)
+Freelance Project with [Armur AI](https://github.com/Armur-Ai)
 This repository contains Jupyter notebooks that performs an analysis of various security measures on the specific chain
 
 ## Overview
