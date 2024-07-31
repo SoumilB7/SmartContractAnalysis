@@ -4,17 +4,17 @@ This repository contains Jupyter notebooks that performs an analysis of various 
 
 ## Overview
 ### Aptos
-The `Aptos_smart_contract.ipynb` notebook includes the script to Finetune Llama3 8B on synthetic smart contract analysis data on `Move` for Aptos Chain.
-The `Aptos_SmartContract_Dataset.json` file includes the entire dataset used 
-The Model is stored here : [Huggingface Model](https://huggingface.co/SoumilB7/L3_8B_Aptos_Smart_Contract_Analyser)
-The dataset visualised is stored here : [Hugginface Dataset](https://huggingface.co/datasets/SoumilB7/AptosSC)
+- The `Aptos_smart_contract.ipynb` notebook includes the script to Finetune Llama3 8B on synthetic smart contract analysis data on `Move` for Aptos Chain.
+- The `Aptos_SmartContract_Dataset.json` file includes the entire dataset used 
+- The Model is stored here : [Huggingface Model](https://huggingface.co/SoumilB7/L3_8B_Aptos_Smart_Contract_Analyser)
+- The dataset visualised is stored here : [Hugginface Dataset](https://huggingface.co/datasets/SoumilB7/AptosSC)
 
 
 ### Solana
-The `Solana_smart_contract.ipynb` notebook includes the script to Finetune Llama3 8B on synthetic smart contract analysis data on `Rust` for Solana Chain.
-The `Solana_SmartContract_Dataset.json` file includes the entire dataset used 
-The Model is stored here : [Huggingface Model](https://huggingface.co/SoumilB7/L3_8B_Solana_Smart_Contract_Analyser)
-The dataset visualised is stored here : [Hugginface Dataset](https://huggingface.co/datasets/SoumilB7/SolanaSC)
+- The `Solana_smart_contract.ipynb` notebook includes the script to Finetune Llama3 8B on synthetic smart contract analysis data on `Rust` for Solana Chain.
+- The `Solana_SmartContract_Dataset.json` file includes the entire dataset used 
+- The Model is stored here : [Huggingface Model](https://huggingface.co/SoumilB7/L3_8B_Solana_Smart_Contract_Analyser)
+- The dataset visualised is stored here : [Hugginface Dataset](https://huggingface.co/datasets/SoumilB7/SolanaSC)
 
 
 ## Features
